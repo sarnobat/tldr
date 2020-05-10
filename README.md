@@ -124,7 +124,7 @@ You can access these pages on your computer using one of the following clients:
     - [tldr.ooops.me](https://tldr.ooops.me): web client with multilingual support
 
 There is also a comprehensive
-[list of clients in our Wiki](https://github.com/tldr-pages/tldr/wiki/TLDR-clients).
+[list of clients in our Wiki](https://github.com/tldr-pages/tldr/wiki/tldr-pages-clients).
 
 ## Contributing
 
