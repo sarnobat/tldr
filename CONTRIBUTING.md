@@ -20,7 +20,7 @@
 [license-url]: https://github.com/tldr-pages/tldr/blob/master/LICENSE.md
 [license-image]: https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg
 
-Contributions to the tldr-pages project are [most welcome](GOVERNANCE.md)!
+Contributions to the tldr pages project are [most welcome](GOVERNANCE.md)!
 All `tldr` pages are stored in Markdown right here on GitHub.
 Just open an issue or send a pull request and we'll incorporate it as soon as possible.
 To get started, please [sign](https://cla-assistant.io/tldr-pages/tldr) the

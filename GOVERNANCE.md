@@ -1,6 +1,6 @@
 # Project governance
 
-The tldr-pages project strives to have an **open**, **welcoming**,
+The tldr pages project strives to have an **open**, **welcoming**,
 and [**non-hierarchical**](https://en.wikipedia.org/wiki/Flat_organization)
 governance structure.
 
@@ -14,7 +14,7 @@ Community members are asked to abide by the following principles:
 
 1. **All contributions are welcome**,
    [no matter how small](https://github.com/kentcdodds/all-contributors).
-   The tldr-pages project is a
+   The tldr pages project is a
    [do-ocracy](https://communitywiki.org/wiki/DoOcracy),
    so don't hesitate to get involved
    — we're happy to welcome you into the community!

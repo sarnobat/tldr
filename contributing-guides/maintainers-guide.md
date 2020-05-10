@@ -1,7 +1,7 @@
 # Maintainer's guide
 
 The following guidelines are meant to provide a general basis
-for the behavior expected of tldr-pages maintainers.
+for the behavior expected of tldr pages maintainers.
 
 *Note:* This text is a living standard;
 that is, it is meant to *describe* the project's maintenance practices,
@@ -15,7 +15,7 @@ as a guideline for current and future maintainers.
 ## I. Responding to contributions
 
 - When responding to issues or pull requests,
-  remember that you're temporarily the face of the tldr-pages project.
+  remember that you're temporarily the face of the tldr pages project.
   **Be welcoming and friendly**, and if you don't know how to answer,
   ping other maintainers who you think might have a say.
 

@@ -1,6 +1,6 @@
 # Maintainers
 
-This file contains a list of the maintainers of the tldr-pages project.
+This file contains a list of the maintainers of the tldr pages project.
 Note: only the people marked with **bold** are currently in the indicated role.
 The other entries are kept for historical record.
 
@@ -47,7 +47,7 @@ If you are an owner of the organization, you should be able to see an automated 
 ## Organization members
 
 In addition everything that a repository collaborator can do,
-an organization member also has write access to all the repositories in the tldr-pages organization.
+an organization member also has write access to all the repositories in the tldr pages organization.
 An automated list can be found [here](https://github.com/orgs/tldr-pages/people).
 
 - **Zlatan Vasović ([@zdroid](https://github.com/zdroid))**:
@@ -66,7 +66,7 @@ An automated list can be found [here](https://github.com/orgs/tldr-pages/people)
 
 ## Organization owners
 
-Owners of the tldr-pages organization have admin access to all of its repositories,
+Owners of the tldr pages organization have admin access to all of its repositories,
 and are responsible for performing role changes in the community.
 An automated list can be found [here](https://github.com/orgs/tldr-pages/people).
 

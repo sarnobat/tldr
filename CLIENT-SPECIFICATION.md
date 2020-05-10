@@ -2,7 +2,7 @@
 
 **Current Specification Version:** 1.2
 
-This document contains the official specification for tldr-pages clients. It is _not_ a specification of the format of the pages themselves - only a specification of how a user should be able to interface with an official client. For a list of previous versions of the specification, see the [changelog section](#Changelog) below.
+This document contains the official specification for tldr pages clients. It is _not_ a specification of the format of the pages themselves - only a specification of how a user should be able to interface with an official client. For a list of previous versions of the specification, see the [changelog section](#Changelog) below.
 
 The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
@@ -13,7 +13,7 @@ In order to aid the understanding of this specification document, a number of te
 
 ### Page
 
-tldr-pages consists of multiple _pages_ - each of which describes a specific command.
+tldr pages consists of multiple _pages_ - each of which describes a specific command.
 
 ### Platform
 

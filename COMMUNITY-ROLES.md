@@ -26,7 +26,7 @@ exceptions can always be considered, via open community discussion.)
 - **Regular contributors should be added as collaborators in the repository.**
   Specifically: once a contributor has had _5 non-trivial pull requests merged_
   (see `https://github.com/tldr-pages/tldr/commits?author=<username>`)
-  on a repository under the tldr-pages organization,
+  on a repository under the tldr pages organization,
   they should be invited to become
   a **collaborator** in that repository.
   This means they will be able to push commits to that repository,
@@ -42,20 +42,20 @@ exceptions can always be considered, via open community discussion.)
   which can overlap with the 10 they merged themselves,
   they should be invited to become a
   [**member**](https://github.com/orgs/tldr-pages/people)
-  of the tldr-pages organization.
+  of the tldr pages organization.
   This means they will be able to
   push commits to all of the organization's repositories,
   merge PRs, label and close issues, among other things.
-  _Note_: All members of the tldr-pages organization
+  _Note_: All members of the tldr pages organization
   must make their membership public.
 
 - **Organization members who remain active for a while should become organization owners.**
-  Specifically: members of the tldr-pages organization
+  Specifically: members of the tldr pages organization
   who remain _active for at least 6 months_
   (see `https://github.com/tldr-pages/tldr/blob/master/MAINTAINERS.md#current-organization-members`)
   should be invited to become an
   [**owner**](https://help.github.com/articles/permission-levels-for-an-organization/)
-  of the tldr-pages organization.
+  of the tldr pages organization.
   This means they will be able to add people to the organization,
   manage all the organization's repositories, configure integrations, etc.
 
@@ -78,7 +78,7 @@ exceptions can always be considered, via open community discussion.)
 
 ## How to change roles
 
-*Note: this section is aimed at owners in the tldr-pages organization
+*Note: this section is aimed at owners in the tldr pages organization
 (i.e. the group of people who are able to perform these changes).*
 
 If you notice a contributor being particularly active,
@@ -92,7 +92,7 @@ using one of the template messages below as a base.
 1. Open an issue with the following message template (edit it as appropriate):
 
    ```
-   Hi, @username! You seem to be enjoying contributing to the tldr-pages project.
+   Hi, @username! You seem to be enjoying contributing to the tldr pages project.
    You now have had five distinct pull requests merged ([LINKS TO THE RELEVANT PRs])!
    That qualifies you to become a collaborator in this repository, as explained in our [community roles documentation](https://github.com/tldr-pages/tldr/blob/master/COMMUNITY-ROLES.md).
 
@@ -124,10 +124,10 @@ using one of the template messages below as a base.
    Hi, @username! After joining as a collaborator in the repository, you have been regularly performing maintenance tasks.
    Thank you for that!
    According to [COMMUNITY-ROLES.md](https://github.com/tldr-pages/tldr/blob/master/COMMUNITY-ROLES.md), you've now met the thresholds to be effectively considered an active maintainer of the project ([LINKS TO THE RELEVANT PRs]).
-   To publicly acknowledge that fact, we'd like to add you to the tldr-pages organization.
+   To publicly acknowledge that fact, we'd like to add you to the tldr pages organization.
 
    If you accept the invitation, we ask you to make your membership public, and (in case you don't already) start hanging out in our Gitter chat room.
-   You'll now be one of the public faces of the tldr-pages project.
+   You'll now be one of the public faces of the tldr pages project.
 
    How does that sound? Are you up for it?
    ```
@@ -146,7 +146,7 @@ using one of the template messages below as a base.
 1. Open an issue with the following message template (edit it as appropriate):
 
    ```
-   Hi, @username! You've been an active tldr-pages org member for over 6 months.
+   Hi, @username! You've been an active tldr pages org member for over 6 months.
    Thanks for sticking around this far and helping out!
    According to [COMMUNITY-ROLES.md](https://github.com/tldr-pages/tldr/blob/master/COMMUNITY-ROLES.md), you're now eligible for becoming an owner in the organization.
 
@@ -178,7 +178,7 @@ using one of the template messages below as a base.
    In practice, not much will change on your side, since you'll remain a collaborator in the repos you have been active in.
    That means **you will keep the ability to commit, merge PRs, label and close issues, etc.**, whenever you feel so inclined.
    If you don't, that's all right too!
-   Every bit of work you already did for the tldr-pages project was a voluntary gift of your time to this community, which is deeply appreciated.
+   Every bit of work you already did for the tldr pages project was a voluntary gift of your time to this community, which is deeply appreciated.
    Your efforts have contributed to a project which helps hundreds of people every day — be proud of it!
 
    And of course, you're welcome back anytime as an active maintainer, if you so choose — in which case, just let us know and we'll re-add you to the organization, in accordance to the principles of our governance guidelines.
@@ -198,5 +198,5 @@ using one of the template messages below as a base.
 ## Who can change roles
 Any member of the community can (and is encouraged to) propose role changes
 by following the process outlined [above](#how-to-change-roles).
-[Owners of the tldr-pages organization](MAINTAINERS.md#current-organization-owners)
+[Owners of the tldr pages organization](MAINTAINERS.md#current-organization-owners)
 can then perform the actual role changes.
